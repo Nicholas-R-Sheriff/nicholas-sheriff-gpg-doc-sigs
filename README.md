@@ -7,6 +7,7 @@ The `.sig` files are inside 'curricula_vitae' rdirectory, together with the corr
 ## Nicholas R. Sheriff De Angelis **Public Key**
 
 -----BEGIN PGP PUBLIC KEY BLOCK-----
+
 xjMEZGG0dxYJKwYBBAHaRw8BAQdA4taPADcdz6vCVsrL00wp2lDHT8GnDeVhs5Bj
 sNkwqUnNRE5pY2hvbGFzIFJpY2hhcmQgU2hlcmlmZiBEZSBBbmdlbGlzIDxuaWNo
 b2xhc3JpY2hhcmQuc2hlcmlmZkBwZWMuaXQ+wpkEExYKAEEWIQTxhiHbXzoOUxfx
@@ -23,4 +24,5 @@ DlMX8SF6u013D83METkFAmRhtHcCGwwFCQPEBqkACgkQu013D83METkErAEAjyKs
 RdiQU6kaIYQiXeWktrxiZkB/3aS1lIVtek4pprEBAABTks3n2nbkfKblN8IaZhyK
 z+CAwt+taHEyUmTnFdsK
 =oKqB
+
 -----END PGP PUBLIC KEY BLOCK-----
