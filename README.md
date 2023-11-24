@@ -1,9 +1,3 @@
-# nicholas-sheriff-gpg-doc-sigs
-
-## Signatures and PDF files
-
-The `.sig` files are inside 'curricula_vitae' rdirectory, together with the corresponding '.pdf' files. Please **mind that the .pdf aren't displaying well in the GitHub integrated viewer**. You can download and check their visual integrity as well.
-
 ## My current GPG **Public Key**
 
 -----BEGIN PGP PUBLIC KEY BLOCK-----
